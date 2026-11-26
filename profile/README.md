@@ -43,11 +43,93 @@ Our goal is to turn ideas into practical projects while creating an environment 
 - Software Engineering
 - Creative and Experimental Projects
 
-## ⚙️ Technologies We Explore
+<h2 align="center">🛠️ Tech Stack</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,nextjs,nodejs,express,html,css,tailwind,mongodb,mysql,postgres,flask,spring,git,github,docker,vscode&perline=7" />
-</p>
+<div align="center">
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="40"/><br>React
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nextjs" width="40"/><br>Next.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="40"/><br>Python
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=js" width="40"/><br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=java" width="40"/><br>Java
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=spring" width="40"/><br>Spring Boot
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" width="40"/><br>MySQL
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" width="40"/><br>VirtualBox
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br>MongoDB
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br>Node.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="40"/><br>Docker
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="40"/><br>HTML5
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="40"/><br>CSS3
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="40"/><br>Bootstrap
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=github" width="40"/><br>GitHub
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="40"/><br>Git
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postman" width="40"/><br>Postman
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="40"/><br>VS Code
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=idea" width="40"/><br>IntelliJ
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vercel" width="40"/><br>Vercel
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=unity" width="40"/><br>Unity
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="40"/><br>Linux
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgres" width="40"/><br>PostgreSQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="40"/><br>Machine Learning
+</td>
+</tr>
+</table>
+</div>
+
 
 ---
 
